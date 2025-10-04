@@ -1,0 +1,13 @@
+Name,Attendance,Hours_Studied,Previous_Score,Parent_Education,Test1,Test2,Final_Result
+Alice,92,8,85,Masters,82,88,Good
+Bob,76,4,60,HighSchool,58,62,Average
+Carla,69,3,55,HighSchool,50,54,Average
+Dinesh,54,2,45,HighSchool,40,48,Poor
+Elena,97,10,92,PhD,95,93,Good
+Fatima,83,6,74,Bachelors,70,72,Good
+Gautham,72,5,68,Masters,66,70,Average
+Hugo,58,2,49,HighSchool,45,46,Poor
+Ivy,65,3,56,Bachelors,52,55,Average
+Jules,90,9,88,Masters,86,90,Good
+Kira,80,5,70,Bachelors,68,72,Average
+Leo,50,1,40,HighSchool,35,38,Poor
